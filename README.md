@@ -14,4 +14,4 @@ The script uses Python, Twilio and AWS Lambda to send a sample WhatsApp message 
 
 ### Here is what a sample message looks like:
 
-![](https://github.com/AbhishekPednekar84/whatsapp_python_aws-lambda/blob/master/images/whatsapp.png)
+![](https://github.com/AbhishekPednekar84/whatsapp_python_aws-lambda/blob/master/images/whatsapp_image.png)
