@@ -11,3 +11,7 @@ The script uses Python, Twilio and AWS Lambda to send a sample WhatsApp message 
 6. Register with [AWS](https://aws.amazon.com), create a new lambda function for the **Python 3.7** runtime and upload the zip file created in the previous step
 7. Set the account_sid and auth_token environment variables on the AWS console using the values from step 2
 8. Once the function is saved, add a CloudWatch Event trigger on the console to run the script the desired time. I have used a ```cron(30 0 * * ? *)``` command to run the script at 12:30 AM UTC (6 AM IST)
+
+### Here is what a sample message looks like:
+
+![](https://github.com/AbhishekPednekar84/whatsapp_python_aws-lambda/blob/master/images/whatsapp.png)
