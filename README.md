@@ -1,6 +1,6 @@
 ## WhatsApp messages with Python and AWS Lambda
 
-The script uses Python, Twilio and AWS Lambda to send a sample WhatsApp message to designated recipients at a particular time of day. The current script sends a "Good Morning, (recipient)!" message at 6 AM IST :clock6: everyday.
+The script uses Python, Twilio and AWS Lambda to send a sample WhatsApp message to designated recipients at a particular time of day. The current script sends a "*Good Morning, (recipient)! :relaxed:*" message at 6 AM IST :clock6: everyday.
 
 ### Pre-requisites to run this script
 1. Register with Twilio and set up the [Twilio Sandbox for WhatsApp](https://www.twilio.com/console/sms/whatsapp/learn). This step will include setting up those users who will be recipients of the message sent by the Python script
